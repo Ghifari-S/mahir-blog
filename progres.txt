@@ -1,0 +1,4 @@
+1. Senin 4 maret 2024 : hari ini sampai halaman register, login, dashboard sudah bisa trintegasi dengan baik walau
+ dengan sedikit typo dan kesalahan di bagian style.
+
+2. selasa 5 maret 2024 : hari ini membuat halaman baru artikel yang ketika disi inputannya disimpan ke halaman dashboard (BINGUNGG C000000)
